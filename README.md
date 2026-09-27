@@ -1,4 +1,4 @@
-#Scrapbook
+## Scrapbook
 A scrapbook-style React site: one fullscreen "page" per chapter, page-turn
 transitions, two mini-quizzes, a memory jar, and a letter that unfolds from
 an envelope.
