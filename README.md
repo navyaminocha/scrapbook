@@ -14,9 +14,9 @@ Then open the local URL Vite prints (usually http://localhost:5173).
 
 ## Make it yours
 
-Everything personal — the intro text, chapter copy, quiz questions/answers,
+Everything personal : the intro text, chapter copy, quiz questions/answers,
 photo captions, "things I love about you" notes, the future checklist, and
-the letter — lives in **one file**: `src/data/content.js`. Edit that file
+the letter : lives in **one file**: `src/data/content.js`. Edit that file
 and the whole site updates.
 
 ### Adding real photos
@@ -35,7 +35,7 @@ Drop an mp3 into `src/assets/`, import it in `src/App.jsx`, and pass it to
 ### About the background
 
 The brief asked for an attached gingham background image, but no image
-file actually came through with the prompt — so the beige gingham + warm
+file actually came through with the prompt : so the beige gingham + warm
 paper-grain texture in `src/index.css` (`.scrapbook-bg` / `.paper-grain`)
 is built entirely from CSS gradients and an SVG noise filter, no image
 asset needed. If you'd rather use a real photographed gingham/paper
@@ -57,5 +57,5 @@ src/
 
 ## Deploying
 
-`npm run build` outputs a static site to `dist/` — drag that folder into
+`npm run build` outputs a static site to `dist/` : drag that folder into
 Netlify/Vercel, or serve it from any static host, to send Brahmya the link.
